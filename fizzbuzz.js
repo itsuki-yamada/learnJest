@@ -5,8 +5,8 @@
 //   - [x] 3を渡すと「Fizz」を返す
 // - [x] 5の倍数を渡すと「Buzz」を返す
 //   - [x] 5を渡すと文字列「Buzz」を返す
-// - [ ] 3と5両方の倍数を返すと「FizzBuzz」を返す
-//   - [ ] 15を渡すと文字列「FizzBuzz」を返す
+// - [x] 3と5両方の倍数を返すと「FizzBuzz」を返す
+//   - [x] 15を渡すと文字列「FizzBuzz」を返す
 
 function fizzBuzz(num) {
   if (num % 15 === 0) {
